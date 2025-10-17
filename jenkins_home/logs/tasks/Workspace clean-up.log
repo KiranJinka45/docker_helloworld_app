@@ -1,0 +1,8 @@
+Started at Fri Oct 17 03:18:47 UTC 2025
+Checking DEMO
+Deleting /var/jenkins_home/workspace/DEMO on Jenkins
+Checking Hello_World_Docker
+Deleting /var/jenkins_home/workspace/Hello_World_Docker on Jenkins
+Checking test
+Deleting /var/jenkins_home/workspace/test on Jenkins
+Finished at Fri Oct 17 03:18:47 UTC 2025. 424ms
